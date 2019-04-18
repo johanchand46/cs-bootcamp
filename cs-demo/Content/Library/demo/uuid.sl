@@ -1,7 +1,7 @@
 namespace: cs_demo.content.library.demo.aos.test
 
 operation:
-  name: extract_filename
+  name: uuid
 
   inputs:
    - input_1
